@@ -1,5 +1,7 @@
 // Include
 
-
-// Main Function
-
+using namespace std;
+int main() 
+{
+    cout << "Hello, World!";
+}
